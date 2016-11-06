@@ -1,5 +1,3 @@
-package test1;
-
 public class DP
 {
 	int m[][];
